@@ -14,9 +14,9 @@ A simple Flask web application that displays Thirukkural verses using a Kural nu
 thirukkural-app/
 ├── app.py
 ├── README.md
+├── homepage.png
 ├── templates/
 └── static/
-├── homepage.png
 ```
 ## Screenshot
 
