@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f2f2f2;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 5px;
+}
+
+form {
+    margin: 25px 0;
+}
+
+input {
+    padding: 10px;
+    width: 60%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px 15px;
+    background: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.card {
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+    text-align: left;
+}
+
+.tamil {
+    font-size: 20px;
+    line-height: 1.8;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #ddd;
+}
+
+@media (max-width: 600px) {
+
+    input {
+        width: 55%;
+    }
+
+    .card {
+        padding: 18px;
+    }
+
+    .tamil {
+        font-size: 18px;
+    }
+}
