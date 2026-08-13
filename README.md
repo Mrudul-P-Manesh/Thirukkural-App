@@ -13,12 +13,14 @@ A simple Flask web application that displays Thirukkural verses using a Kural nu
 ```text
 thirukkural-app/
 ├── app.py
+├── homepage.png
+├── README.md
 ├── templates/
-│   └── index.html
-├── static/
-│   └── style.css
-└── README.md
+└── static/
 ```
+## Screenshot
+
+![Thirukkural App](homepage.png)
 
 ## Run Locally
 
